@@ -45,25 +45,25 @@
 
 <img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai**, currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent hardware systems. 
+I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai** (CGPA: **9.16/10** | *Sem 1: 9.00, Sem 2: 9.43, Sem 3: 9.08*), currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent edge ML systems. 
 
-I build end-to-end applications using the **MERN stack**, design complex relational and NoSQL databases, and experiment with sensor-based hardware like **NodeMCU**. Academically, I dive deep into low-level computer architecture, CPU scheduling algorithms, and advanced complex variable mathematics to understand how systems operate from the silicon up to the cloud.
+I build end-to-end applications utilizing the **MERN stack**, design complex relational and NoSQL databases, and engineer offline AI solutions using **React Native** and **Lightweight CNNs**. Academically, I dive deep into low-level computer architecture, operating systems, and advanced complex variable mathematics to understand how systems operate from the silicon up to the cloud.
 
-- 🔭 **Currently Building:** A comprehensive **Community Resource Management System** with a fully fleshed-out ER architecture.
-- ⚡ **Core Focus:** MongoDB, Express, React, Node.js | IoT & Ultrasonic Sensor Integrations
+- 🔭 **Currently Building:** Scalable database architectures and explainable AI models (XAI).
+- ⚡ **Core Focus:** MongoDB, Express, React, Node.js | Edge AI & Computer Vision
 - 🌱 **Open Source:** Actively contributing to projects as part of **GirlScript Summer of Code (GSSoC)**.
-- 🧠 **Exploring:** Operating Systems (Paging, Scheduling), Database Management, and Computer Organization.
+- 🧠 **Exploring:** System Design, Probabilistic Modeling, and Real-time Liveness Detection.
 
 <br clear="right" />
 <br />
 
 ---
 
-<!-- ╔═══════════════════════ SECTION 3 — TECH STACK ═══════════════════════╗ -->
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> Tech Stack
+<!-- ╔═══════════════════════ SECTION 3 — TECH STACK & KEY SKILLS ═══════════════════════╗ -->
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> Tech Stack & Key Skills
 
 <details open>
-<summary><b>🌐 Full-Stack Web</b></summary>
+<summary><b>🌐 Full-Stack & Mobile Web</b></summary>
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -75,25 +75,33 @@ I build end-to-end applications using the **MERN stack**, design complex relatio
 </details>
 
 <details open>
-<summary><b>🤖 AI & Data Science</b></summary>
+<summary><b>🤖 AI, Data Science & Computer Vision</b></summary>
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-7AA2F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHAP-F7768E?style=for-the-badge" />
 </div>
 </details>
 
 <details open>
-<summary><b>⚙️ Hardware & Core Systems</b></summary>
+<summary><b>⚙️ Hardware, Core Systems & Analysis</b></summary>
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT_Sensors-7AA2F7?style=for-the-badge" />
 </div>
 </details>
+
+<br />
+
+**🎯 Core Competencies:**
+> Deep Learning (TensorFlow/Keras) · Explainable AI (XAI) · Edge Machine Learning · Cross-Platform Mobile Development · Data Analysis & Querying · Data Clustering (KMeans, BG/NBD) · Full-Stack Database Architecture
 
 <br />
 
@@ -135,34 +143,28 @@ An AI-powered credit scoring system evaluating the creditworthiness of gig worke
 
 <br />
 
-### 🏙️ Community Resource Management System
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-A comprehensive full-stack platform designed to connect community members, track resources, and manage requests efficiently.
-- Designed a scalable database schema focusing on `CommunityMember`, `Resource`, `Request`, and `Provider` entities.
-- Built a seamless frontend-to-backend data flow to handle real-time inventory and request syncing.
+---
 
-<br />
+<!-- ╔═══════════════════════ SECTION 5 — CERTIFICATIONS ═══════════════════════╗ -->
+## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></picture> Licenses & Certifications
 
-### 🤖 Facial Recognition Robot
-<p>
-  <img src="https://img.shields.io/badge/Computer_Vision-7AA2F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/IoT-BB9AF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hardware-F7768E?style=flat-square" />
-</p>
-An AI-integrated robotics project bridging software intelligence with physical hardware.
-- Engineered hardware systems utilizing ultrasonic sensors and NodeMCU controllers for spatial awareness and navigation.
-- Integrated facial recognition models to allow the robot to identify and respond to specific environmental triggers.
+<ul>
+  <li>🧠 <b>Deep Learning with Keras and Tensorflow</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: IVMO9I4ED14A</code></li>
+  <li>🤖 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: JWS9M8GKQ5M6</code></li>
+  <li>📈 <b>Machine Learning with Python</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: 88XKLPT60PKC</code></li>
+  <li>🐙 <b>The Git & Github Bootcamp</b> — <i>Udemy (May 2026)</i> <br> ↳ <code>Credential ID: UC-25dfe895-99da-45d5-8b32-dcf31e9b5190</code></li>
+  <li>💼 <b>Introduction to Data for Decision Makers Job Simulation</b> — <i>Boston Consulting Group / Forage (Feb 2026)</i> <br> ↳ <code>Credential ID: 697f0bc6d3e77846a78f6d01</code></li>
+  <li>📊 <b>SQL for Data Science</b> — <i>University of California, Davis (Jan 2026)</i> <br> ↳ <code>Credential ID: EDCV0NHSSJR2</code></li>
+  <li>📊 <b>Advanced Microsoft Power BI</b> — <i>Edureka (Jan 2026)</i> <br> ↳ <code>Credential ID: X93JUQNGJVMT</code></li>
+  <li>☕ <b>Oracle Java Foundations</b> — <i>Oracle (Jan 2026)</i> <br> ↳ <code>Credential ID: 7U2UUN2TZBZS</code></li>
+  <li>⚙️ <b>Learn C++ Programming – Beginner to Advance</b> — <i>Udemy (Dec 2025)</i> <br> ↳ <code>Credential ID: UC-ba6023fa-855b-43b2-8050-7d6e765fa8f9</code></li>
+</ul>
 
 <br />
 
 ---
 
-<!-- ╔═══════════════════════ SECTION 5 — OPEN SOURCE & COMMUNITY ═══════════════════════╗ -->
+<!-- ╔═══════════════════════ SECTION 6 — OPEN SOURCE & COMMUNITY ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /></picture> Open Source & Community
 
 <table>
@@ -186,7 +188,7 @@ An AI-integrated robotics project bridging software intelligence with physical h
 
 ---
 
-<!-- ╔═══════════════════════ SECTION 6 — CODING PROFILES ═══════════════════════╗ -->
+<!-- ╔═══════════════════════ SECTION 7 — CODING PROFILES ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/ZE2iXOIjIuWVniWPgu/giphy.gif" width="30" /></picture> Coding Profiles
 
 <div align="center">
@@ -199,7 +201,7 @@ An AI-integrated robotics project bridging software intelligence with physical h
 
 ---
 
-<!-- ╔═══════════════════════ SECTION 7 — GITHUB STATS ═══════════════════════╗ -->
+<!-- ╔═══════════════════════ SECTION 8 — GITHUB STATS ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /></picture> Activity Overview
 
 <div align="center">
@@ -211,7 +213,7 @@ An AI-integrated robotics project bridging software intelligence with physical h
 
 ---
 
-<!-- ╔═══════════════════════ SECTION 8 — CONTRIBUTION SNAKE ═══════════════════════╗ -->
+<!-- ╔═══════════════════════ SECTION 9 — CONTRIBUTION SNAKE ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/RKSyZTSPwgCjlSV2vp/giphy.gif" width="30" /></picture> Contribution Snake
 
 <div align="center">
