@@ -215,6 +215,31 @@ An AI-powered credit scoring system evaluating the creditworthiness of gig worke
 
 <br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmittal0205-beep&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathameshmittal0205-beep&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=10" alt="GitHub trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshmittal0205-beep&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7" alt="Activity graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshmittal0205-beep&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathameshmittal0205-beep&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<br />
+
 ---
 
 <!-- ╔═══════════════════════ SECTION 9 — CONTRIBUTION SNAKE ═══════════════════════╗ -->
