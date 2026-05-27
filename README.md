@@ -47,9 +47,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Overall_CGPA-9.16%20%2F%2010-FF4F8B?style=for-the-badge" alt="CGPA 9.16" />
-  <img src="https://img.shields.io/badge/Sem_1-9.00-7AA2F7?style=for-the-badge" alt="Sem 1: 9.00" />
-  <img src="https://img.shields.io/badge/Sem_2-9.43-BB9AF7?style=for-the-badge" alt="Sem 2: 9.43" />
-  <img src="https://img.shields.io/badge/Sem_3-9.08-00C7B7?style=for-the-badge" alt="Sem 3: 9.08" />
 </p>
 
 I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai**, currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent edge ML systems. 
@@ -156,15 +153,15 @@ An AI-powered credit scoring system evaluating the creditworthiness of gig worke
 ## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></picture> Licenses & Certifications
 
 <ul>
-  <li>🧠 <b>Deep Learning with Keras and Tensorflow</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: IVMO9I4ED14A</code></li>
-  <li>🤖 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: JWS9M8GKQ5M6</code></li>
-  <li>📈 <b>Machine Learning with Python</b> — <i>IBM (May 2026)</i> <br> ↳ <code>Credential ID: 88XKLPT60PKC</code></li>
-  <li>🐙 <b>The Git & Github Bootcamp</b> — <i>Udemy (May 2026)</i> <br> ↳ <code>Credential ID: UC-25dfe895-99da-45d5-8b32-dcf31e9b5190</code></li>
-  <li>💼 <b>Introduction to Data for Decision Makers Job Simulation</b> — <i>Boston Consulting Group / Forage (Feb 2026)</i> <br> ↳ <code>Credential ID: 697f0bc6d3e77846a78f6d01</code></li>
-  <li>📊 <b>SQL for Data Science</b> — <i>University of California, Davis (Jan 2026)</i> <br> ↳ <code>Credential ID: EDCV0NHSSJR2</code></li>
-  <li>📊 <b>Advanced Microsoft Power BI</b> — <i>Edureka (Jan 2026)</i> <br> ↳ <code>Credential ID: X93JUQNGJVMT</code></li>
-  <li>☕ <b>Oracle Java Foundations</b> — <i>Oracle (Jan 2026)</i> <br> ↳ <code>Credential ID: 7U2UUN2TZBZS</code></li>
-  <li>⚙️ <b>Learn C++ Programming – Beginner to Advance</b> — <i>Udemy (Dec 2025)</i> <br> ↳ <code>Credential ID: UC-ba6023fa-855b-43b2-8050-7d6e765fa8f9</code></li>
+  <li>🧠 <b>Deep Learning with Keras and Tensorflow</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: IVMO9I4ED14A</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>🤖 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: JWS9M8GKQ5M6</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>📈 <b>Machine Learning with Python</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: 88XKLPT60PKC</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>🐙 <b>The Git & Github Bootcamp</b> — <i>Udemy (May 2026)</i> <br> ↳ <code>ID: UC-25dfe895-99da-45d5-8b32-dcf31e9b5190</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>💼 <b>Introduction to Data for Decision Makers Job Simulation</b> — <i>Boston Consulting Group / Forage (Feb 2026)</i> <br> ↳ <code>ID: 697f0bc6d3e77846a78f6d01</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>📊 <b>SQL for Data Science</b> — <i>University of California, Davis (Jan 2026)</i> <br> ↳ <code>ID: EDCV0NHSSJR2</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>📊 <b>Advanced Microsoft Power BI</b> — <i>Edureka (Jan 2026)</i> <br> ↳ <code>ID: X93JUQNGJVMT</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>☕ <b>Oracle Java Foundations</b> — <i>Oracle (Jan 2026)</i> <br> ↳ <code>ID: 7U2UUN2TZBZS</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
+  <li>⚙️ <b>Learn C++ Programming – Beginner to Advance</b> — <i>Udemy (Dec 2025)</i> <br> ↳ <code>ID: UC-ba6023fa-855b-43b2-8050-7d6e765fa8f9</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
 </ul>
 
 <br />
