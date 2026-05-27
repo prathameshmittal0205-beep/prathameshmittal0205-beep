@@ -9,7 +9,7 @@
 
 <!-- ╔═══════════════════════ SECTION 1 — HERO HEADER ═══════════════════════╗ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,40:7AA2F7,70:BB9AF7,100:F7768E&height=300&section=header&text=Prathamesh%20Mittal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20%26%20Robotics%20Engineer&descAlignY=58&descAlign=50&fontColor=FFFFFF" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4169E1,7AA2F7,BB9AF7,F7768E&height=300&section=header&text=Prathamesh%20Mittal&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20and%20Robotics%20Engineer&descAlignY=60&descAlign=50&fontColor=FFFFFF" alt="Header banner" />
 </p>
 
 <p align="center">
