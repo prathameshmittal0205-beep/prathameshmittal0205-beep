@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/prathameshmittal0205-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=1A1B27&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Prathamesh+%F0%9F%91%8B;Full-Stack+MERN+Developer+%E2%9A%A1;AI+%26+Robotics+Engineer+%F0%9F%A4%96;B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;GSSoC+Contributor+%F0%9F%8C%90" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=1A1B27&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Prathamesh+%F0%9F%91%8B;Full-Stack+MERN+Developer+%E2%9A%A1;AI+%26+Robotics+Engineer+%F0%9F%A4%96;B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;CGPA+9.16+%2F+10+%E2%9C%A8;GSSoC+Contributor+%F0%9F%8C%90" alt="Typing intro" />
   </a>
 </p>
 
@@ -45,7 +45,14 @@
 
 <img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai** (CGPA: **9.16/10** | *Sem 1: 9.00, Sem 2: 9.43, Sem 3: 9.08*), currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent edge ML systems. 
+<p>
+  <img src="https://img.shields.io/badge/Overall_CGPA-9.16%20%2F%2010-FF4F8B?style=for-the-badge" alt="CGPA 9.16" />
+  <img src="https://img.shields.io/badge/Sem_1-9.00-7AA2F7?style=for-the-badge" alt="Sem 1: 9.00" />
+  <img src="https://img.shields.io/badge/Sem_2-9.43-BB9AF7?style=for-the-badge" alt="Sem 2: 9.43" />
+  <img src="https://img.shields.io/badge/Sem_3-9.08-00C7B7?style=for-the-badge" alt="Sem 3: 9.08" />
+</p>
+
+I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai**, currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent edge ML systems. 
 
 I build end-to-end applications utilizing the **MERN stack**, design complex relational and NoSQL databases, and engineer offline AI solutions using **React Native** and **Lightweight CNNs**. Academically, I dive deep into low-level computer architecture, operating systems, and advanced complex variable mathematics to understand how systems operate from the silicon up to the cloud.
 
