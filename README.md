@@ -43,6 +43,8 @@
 <!-- ╔═══════════════════════ SECTION 2 — ABOUT ME ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></picture> About Me
 
+<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 I am a **second-year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai**, currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures and intelligent hardware systems. 
 
 I build end-to-end applications using the **MERN stack**, design complex relational and NoSQL databases, and experiment with sensor-based hardware like **NodeMCU**. Academically, I dive deep into low-level computer architecture, CPU scheduling algorithms, and advanced complex variable mathematics to understand how systems operate from the silicon up to the cloud.
@@ -52,6 +54,7 @@ I build end-to-end applications using the **MERN stack**, design complex relatio
 - 🌱 **Open Source:** Actively contributing to projects as part of **GirlScript Summer of Code (GSSoC)**.
 - 🧠 **Exploring:** Operating Systems (Paging, Scheduling), Database Management, and Computer Organization.
 
+<br clear="right" />
 <br />
 
 ---
@@ -202,4 +205,19 @@ An AI-integrated robotics project bridging software intelligence with physical h
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathameshmittal0205-beep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshmittal0205-beep&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<br />
+
+---
+
+<!-- ╔═══════════════════════ SECTION 8 — CONTRIBUTION SNAKE ═══════════════════════╗ -->
+## <picture><img src="https://media.giphy.com/media/RKSyZTSPwgCjlSV2vp/giphy.gif" width="30" /></picture> Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
