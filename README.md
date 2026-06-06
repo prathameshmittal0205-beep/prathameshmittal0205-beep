@@ -46,7 +46,7 @@
 <img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <p>
-  <img src="https://img.shields.io/badge/Overall_CGPA-9.19%20%2F%2010-FF4F8B?style=for-the-badge" alt="CGPA 9.19" />
+  <img src="https://img.shields.io/badge/Overall_CGPA-9.17%20%2F%2010-FF4F8B?style=for-the-badge" alt="CGPA 9.17" />
 </p>
 
 I am a **pre-final year B.Tech CSE student** specializing in **AI and Robotics** at **VIT Chennai**, currently based out of Navi Mumbai. My engineering focus sits at the intersection of robust web architectures, intelligent edge ML systems, and data-driven solutions. 
