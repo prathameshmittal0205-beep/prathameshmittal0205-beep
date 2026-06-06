@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/prathameshmittal0205-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=1A1B27&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Prathamesh+%F0%9F%91%8B;Full-Stack+MERN+Developer+%E2%9A%A1;AI+%26+Robotics+Engineer+%F0%9F%A4%96;Pre-final+year+CSE+%40+VIT+%F0%9F%8E%93;CGPA+9.19+%2F+10+%E2%9C%A8;100%2B+LeetCode+Solved+%E2%9A%94%EF%B8%8F" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=1A1B27&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Prathamesh+%F0%9F%91%8B;Full-Stack+MERN+Developer+%E2%9A%A1;AI+%26+Robotics+Engineer+%F0%9F%A4%96;Pre-final+year+CSE+%40+VIT+%F0%9F%8E%93;CGPA+9.17+%2F+10+%E2%9C%A8;100%2B+LeetCode+Solved+%E2%9A%94%EF%B8%8F" alt="Typing intro" />
   </a>
 </p>
 
