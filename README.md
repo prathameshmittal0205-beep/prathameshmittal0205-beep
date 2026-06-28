@@ -67,6 +67,26 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 
 ---
 
+<!-- ╔═══════════════════════ SECTION 2.5 — EDUCATION ═══════════════════════╗ -->
+## <picture><img src="https://media.giphy.com/media/26ufdipRfjKzrMaXrG/giphy.gif" width="28" /></picture> Education
+
+<table>
+  <tr>
+    <td width="55%"><b>Vellore Institute of Technology, Chennai</b><br />B.Tech, CSE (AI &amp; Robotics)</td>
+    <td width="25%">2024 – 2028</td>
+    <td width="20%"><b>CGPA: 9.17</b></td>
+  </tr>
+  <tr>
+    <td><b>Ramsheth Thakur Public School, Kharghar, Mumbai</b><br />Class XII – CBSE</td>
+    <td>2023</td>
+    <td><b>87%</b></td>
+  </tr>
+</table>
+
+<br />
+
+---
+
 <!-- ╔═══════════════════════ SECTION 3 — TECH STACK & KEY SKILLS ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> Tech Stack & Key Skills
 
@@ -80,6 +100,8 @@ I build production-grade applications utilizing the **MERN stack**, design scala
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-7AA2F7?style=for-the-badge" />
 </div>
 </details>
 
@@ -89,7 +111,9 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-7AA2F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -105,8 +129,15 @@ I build production-grade applications utilizing the **MERN stack**, design scala
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 </details>
+
+<br />
+
+**🧩 CS Fundamentals:** Object-Oriented Programming (OOPS) · Computer Architecture · Operating Systems (OS) · DBMS & Relational Databases · Git & GitHub
 
 <br />
 
@@ -120,32 +151,37 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 <!-- ╔═══════════════════════ SECTION 4 — FEATURED PROJECTS ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /></picture> Featured Projects
 
-### 🌍 NGO Engine: Real-time Resource & Donation Management
+### 🌍 NGO Engine: Resource & Donation Management
 <p>
   <img src="https://img.shields.io/badge/MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT_%26_RBAC-FF4F8B?style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB_Aggregation-00C7B7?style=flat-square" />
 </p>
 
+**Role:** Lead MERN Stack Developer &nbsp;|&nbsp; **Mar 2026 – Apr 2026**
+
 Architected a full-stack platform to streamline NGO inventory, donation tracking, and beneficiary fulfillment workflows.
-- Designed atomic inventory synchronization logic and backend transactional validation to maintain consistent global stock states and prevent race conditions.
-- Built a real-time analytics layer using the MongoDB Aggregation Pipeline, powering donor leaderboards and resource distribution visualizations.
-- Engineered secure authentication and authorization workflows using JWT, bcrypt, and Role-Based Access Control (RBAC).
-- Integrated automated document generation with jsPDF and CSV export pipelines for receipt issuance and audit reporting.
+- Designed atomic inventory synchronization logic to maintain consistent global stock states across multiple database collections.
+- Implemented backend transactional validation to prevent race conditions, over-allocation, and negative inventory states.
+- Built a real-time analytics layer using the MongoDB Aggregation Pipeline, powering donor leaderboards and inventory insights.
+- Engineered secure authorization workflows using JWT, bcrypt, and Role-Based Access Control (RBAC).
 
 <br />
 
-### 📱 Offline Facial Recognition & Liveness Detection System
+### 📱 NHAI – Offline Facial Recognition & Liveness Detection System
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Edge_AI-7AA2F7?style=flat-square" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
+**Role:** AI & Mobile App Developer &nbsp;|&nbsp; **May 2026 – June 2026**
+
 A fully offline, lightweight facial recognition and liveness detection system for secure authentication of field personnel in zero-network environments.
-- Designed an edge-deployable AI model (~20MB) for Android and iOS, achieving under 1s inference time and 95% accuracy without GPU dependency.
+- Designed an edge-deployable AI model (~20MB) for Android and iOS, achieving under 1s inference time and >95% accuracy without GPU dependency.
 - Implemented anti-spoofing liveness detection using real-time user actions (blinking, smiling) to prevent photo/screen fraud.
-- Integrated the AI pipeline into a React Native application for seamless offline authentication.
+- Integrated the AI pipeline into a React Native application for seamless offline authentication in zero-network environments.
 - Engineered local data storage with a sync-and-purge mechanism to securely upload records to AWS upon network restoration.
 
 <br />
@@ -157,6 +193,8 @@ A fully offline, lightweight facial recognition and liveness detection system fo
   <img src="https://img.shields.io/badge/KMeans-BB9AF7?style=flat-square" />
   <img src="https://img.shields.io/badge/SHAP-F7768E?style=flat-square" />
 </p>
+
+**Role:** Machine Learning Engineer &nbsp;|&nbsp; **Apr 2026 – May 2026**
 
 An AI-powered credit scoring system evaluating the creditworthiness of informal earners lacking traditional credit history.
 - Developed a behavior-based credit scoring pipeline using transaction data.
@@ -173,6 +211,8 @@ An AI-powered credit scoring system evaluating the creditworthiness of informal 
   <img src="https://img.shields.io/badge/UI%2FUX_Design-BB9AF7?style=flat-square" />
 </p>
 
+**Role:** Full Stack Frontend Developer &nbsp;|&nbsp; **May 2026 – June 2026**
+
 Engineered a local-first voice cloning platform simulating an XTTS-v2 speech synthesis pipeline for an investor-ready SaaS experience.
 - Designed a custom dark-mode interface with glassmorphism, neural-wave visuals, SVG audio playback, and live console streaming.
 - Built deterministic mock orchestration for voice upload, training, and speech generation for offline demonstrations.
@@ -185,7 +225,7 @@ Engineered a local-first voice cloning platform simulating an XTTS-v2 speech syn
 ## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></picture> Experience & Achievements
 
 **🏆 Hackathons & Competitions**
-- **PATCH FEST 2025 (Runner-up):** Secured the Runner-up position in a 24-hour national-level coding marathon organized by the IEEE Computer Society. Architected and deployed solutions for real-time problem statements under continuous time pressure.
+- **PATCH FEST 2025 (Runner-up):** Secured the Runner-up position in a 24-hour national-level coding marathon organized by the IEEE Computer Society. Collaborated in a two-member team to architect and deploy solutions for real-time problem statements under continuous time pressure.
 
 **💼 Positions of Responsibility**
 - **Technical Team Member @ IEEE Computer Society (VITC):** Organizing technical workshops and facilitating peer-to-peer knowledge sharing for a diverse technical community. *(Dec 2025 – Present)*
