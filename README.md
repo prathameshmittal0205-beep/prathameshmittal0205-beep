@@ -57,8 +57,12 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 - ⚡ **Core Focus:** MongoDB, Express, React, Node.js | Edge AI & Computer Vision
 - 🌱 **Open Source:** Actively contributing to the Open Source and AI/Agents tracks for **GirlScript Summer of Code (GSSoC)**.
 - 🧠 **Exploring:** System Architecture, Probabilistic Modeling, and JWT/RBAC security workflows.
+- 💬 **Ask me about:** MERN architecture, edge AI deployment, or explainable ML.
 
 <br clear="right" />
+
+> 📍 **Now:** Deepening my GSSoC contributions across the Open Source and AI/Agents tracks while polishing CreditLens AI's explainability layer.
+
 <br />
 
 ---
@@ -122,6 +126,7 @@ I build production-grade applications utilizing the **MERN stack**, design scala
   <img src="https://img.shields.io/badge/JWT_%26_RBAC-FF4F8B?style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB_Aggregation-00C7B7?style=flat-square" />
 </p>
+
 Architected a full-stack platform to streamline NGO inventory, donation tracking, and beneficiary fulfillment workflows.
 - Designed atomic inventory synchronization logic and backend transactional validation to maintain consistent global stock states and prevent race conditions.
 - Built a real-time analytics layer using the MongoDB Aggregation Pipeline, powering donor leaderboards and resource distribution visualizations.
@@ -136,6 +141,7 @@ Architected a full-stack platform to streamline NGO inventory, donation tracking
   <img src="https://img.shields.io/badge/Edge_AI-7AA2F7?style=flat-square" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
+
 A fully offline, lightweight facial recognition and liveness detection system for secure authentication of field personnel in zero-network environments.
 - Designed an edge-deployable AI model (~20MB) for Android and iOS, achieving under 1s inference time and 95% accuracy without GPU dependency.
 - Implemented anti-spoofing liveness detection using real-time user actions (blinking, smiling) to prevent photo/screen fraud.
@@ -151,6 +157,7 @@ A fully offline, lightweight facial recognition and liveness detection system fo
   <img src="https://img.shields.io/badge/KMeans-BB9AF7?style=flat-square" />
   <img src="https://img.shields.io/badge/SHAP-F7768E?style=flat-square" />
 </p>
+
 An AI-powered credit scoring system evaluating the creditworthiness of informal earners lacking traditional credit history.
 - Developed a behavior-based credit scoring pipeline using transaction data.
 - Implemented KMeans clustering for financial segmentation and BG/NBD probabilistic modeling to estimate lifetime value.
@@ -165,6 +172,7 @@ An AI-powered credit scoring system evaluating the creditworthiness of informal 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX_Design-BB9AF7?style=flat-square" />
 </p>
+
 Engineered a local-first voice cloning platform simulating an XTTS-v2 speech synthesis pipeline for an investor-ready SaaS experience.
 - Designed a custom dark-mode interface with glassmorphism, neural-wave visuals, SVG audio playback, and live console streaming.
 - Built deterministic mock orchestration for voice upload, training, and speech generation for offline demonstrations.
@@ -213,17 +221,14 @@ Engineered a local-first voice cloning platform simulating an XTTS-v2 speech syn
 <!-- ╔═══════════════════════ SECTION 7 — CERTIFICATIONS ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /></picture> Licenses & Certifications
 
-<ul>
-  <li>🧠 <b>Deep Learning with Keras and Tensorflow</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: IVMO9I4ED14A</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>🤖 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: JWS9M8GKQ5M6</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>📈 <b>Machine Learning with Python</b> — <i>IBM (May 2026)</i> <br> ↳ <code>ID: 88XKLPT60PKC</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>🐙 <b>The Git & Github Bootcamp</b> — <i>Udemy (May 2026)</i> <br> ↳ <code>ID: UC-25dfe895-99da-45d5-8b32-dcf31e9b5190</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>💼 <b>Introduction to Data for Decision Makers Job Simulation</b> — <i>Boston Consulting Group / Forage (Feb 2026)</i> <br> ↳ <code>ID: 697f0bc6d3e77846a78f6d01</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>📊 <b>SQL for Data Science</b> — <i>University of California, Davis (Jan 2026)</i> <br> ↳ <code>ID: EDCV0NHSSJR2</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>📊 <b>Advanced Microsoft Power BI</b> — <i>Edureka (Jan 2026)</i> <br> ↳ <code>ID: X93JUQNGJVMT</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>☕ <b>Oracle Java Foundations</b> — <i>Oracle (Jan 2026)</i> <br> ↳ <code>ID: 7U2UUN2TZBZS</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-  <li>⚙️ <b>Learn C++ Programming – Beginner to Advance</b> — <i>Udemy (Dec 2025)</i> <br> ↳ <code>ID: UC-ba6023fa-855b-43b2-8050-7d6e765fa8f9</code> • <a href="[INSERT_LINK_HERE]" target="_blank"><b>[View Credential ↗]</b></a></li>
-</ul>
+- 🧠 **Deep Learning with Keras & TensorFlow** | *IBM*
+- 🤖 **Deep Learning & Neural Networks** | *IBM*
+- 📈 **Machine Learning with Python** | *IBM*
+- 📊 **SQL for Data Science** | *Coursera*
+- 📊 **Advanced Microsoft Power BI** | *Microsoft*
+- ☕ **Oracle Java Foundations** | *Oracle*
+- ⚙️ **Learn C++ Programming** | *Udemy*
+- 🐙 **The Git & GitHub Bootcamp** | *Udemy*
 
 <br />
 
@@ -289,3 +294,20 @@ Engineered a local-first voice cloning platform simulating an XTTS-v2 speech syn
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br />
+
+---
+
+<!-- ╔═══════════════════════ SECTION 11 — FOOTER ═══════════════════════╗ -->
+<p align="center">
+  <i>"Build it. Break it. Understand it. Rebuild it better."</i>
+</p>
+
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_Top-1A1B27?style=for-the-badge&logoColor=white" alt="Back to top" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DCFFF,40:7AA2F7,70:3D59A1,100:1A1B27&height=120&section=footer" alt="Footer banner" />
+</p>
