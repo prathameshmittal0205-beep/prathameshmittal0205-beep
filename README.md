@@ -55,33 +55,29 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 
 - 🔭 **Currently Building:** Production-grade MERN platforms and explainable AI models (XAI).
 - ⚡ **Core Focus:** MongoDB, Express, React, Node.js | Edge AI & Computer Vision
-- 🌱 **Open Source:** Actively contributing to the Open Source and AI/Agents tracks for **GirlScript Summer of Code (GSSoC)**.
 - 🧠 **Exploring:** System Architecture, Probabilistic Modeling, and JWT/RBAC security workflows.
 - 💬 **Ask me about:** MERN architecture, edge AI deployment, or explainable ML.
 
 <br clear="right" />
 
-> 📍 **Now:** Deepening my GSSoC contributions across the Open Source and AI/Agents tracks while polishing CreditLens AI's explainability layer.
+> 📍 **Now:** Polishing CreditLens AI's explainability layer and exploring new edge-AI deployment patterns.
 
 <br />
 
 ---
 
 <!-- ╔═══════════════════════ SECTION 2.5 — EDUCATION ═══════════════════════╗ -->
-## <picture><img src="https://media.giphy.com/media/26ufdipRfjKzrMaXrG/giphy.gif" width="28" /></picture> Education
+## <picture><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="28" /></picture> Education Timeline
 
-<table>
-  <tr>
-    <td width="55%"><b>Vellore Institute of Technology, Chennai</b><br />B.Tech, CSE (AI &amp; Robotics)</td>
-    <td width="25%">2024 – 2028</td>
-    <td width="20%"><b>CGPA: 9.17</b></td>
-  </tr>
-  <tr>
-    <td><b>Ramsheth Thakur Public School, Kharghar, Mumbai</b><br />Class XII – CBSE</td>
-    <td>2023</td>
-    <td><b>87%</b></td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/main/assets/edu-timeline-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/main/assets/edu-timeline-light.svg" />
+    <img alt="Education timeline from school to college, with the road ahead shown as a dotted path" src="https://raw.githubusercontent.com/prathameshmittal0205-beep/prathameshmittal0205-beep/main/assets/edu-timeline-light.svg" width="100%" />
+  </picture>
+</div>
+
+<p align="center"><i>solid line = the path so far &nbsp;&#183;&nbsp; dotted line = still being written</i></p>
 
 <br />
 
@@ -230,29 +226,6 @@ Engineered a local-first voice cloning platform simulating an XTTS-v2 speech syn
 **💼 Positions of Responsibility**
 - **Technical Team Member @ IEEE Computer Society (VITC):** Organizing technical workshops and facilitating peer-to-peer knowledge sharing for a diverse technical community. *(Dec 2025 – Present)*
 - **Management Team Member @ Microsoft Innovations Club (VITC):** Coordinating event logistics, managing workflows, and facilitating cross-department communication for large-scale campus events. *(Sep 2025 – Present)*
-
-<br />
-
----
-
-<!-- ╔═══════════════════════ SECTION 6 — OPEN SOURCE & COMMUNITY ═══════════════════════╗ -->
-## <picture><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /></picture> Open Source & Community
-
-<table>
-  <tr>
-    <td width="140" align="center">
-      <img src="https://img.shields.io/badge/GSSoC-FF8A65?style=for-the-badge&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Contributor-7AA2F7?style=for-the-badge" />
-    </td>
-    <td>
-      <b>GirlScript Summer of Code (GSSoC '26) — Open Source Contributor</b>
-      <ul>
-        <li>🚀 Selected as a contributor for the 2026 program, actively participating across the Open Source and AI/Agents tracks.</li>
-        <li>🤝 Contributing to production-level repositories with a core focus on full-stack MERN development and system architecture.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br />
 
