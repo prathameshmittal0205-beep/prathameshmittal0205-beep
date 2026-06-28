@@ -43,7 +43,7 @@
 <!-- ╔═══════════════════════ SECTION 2 — ABOUT ME ═══════════════════════╗ -->
 ## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></picture> About Me
 
-<img align="right" alt="Coding Animation" width="380" src="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/assets/coding-animation.svg" />
+<img align="right" alt="Coding Animation" width="380" src="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/.github/assets/coding-animation.svg" />
 
 <p>
   <img src="https://img.shields.io/badge/Overall_CGPA-9.17%20%2F%2010-FF4F8B?style=for-the-badge" alt="CGPA 9.17" />
@@ -71,9 +71,9 @@ I build production-grade applications utilizing the **MERN stack**, design scala
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/assets/edu-timeline-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/assets/edu-timeline-light.svg" />
-    <img alt="Education timeline from school to college, with the road ahead shown as a dotted path" src="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/assets/edu-timeline-light.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/.github/assets/edu-timeline-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/.github/assets/edu-timeline-light.svg" />
+    <img alt="Education timeline from school to college, with the road ahead shown as a dotted path" src="https://cdn.jsdelivr.net/gh/prathameshmittal0205-beep/prathameshmittal0205-beep@main/.github/assets/edu-timeline-light.svg" width="100%" />
   </picture>
 </div>
 
